@@ -1,0 +1,16 @@
+﻿Mail subject = FW: Starcom - One Plus - North- Mirror Now; Mail received at = 02/14/2019 13:41:27
+Mail subject = FW: Starcom - Yatra Online - North- MN Plus; Mail received at = 02/14/2019 13:52:22
+Mail subject = FW: Mediacom - Future Big Bazaar - ROMEDY NOW HD- WEST; Mail received at = 02/15/2019 12:36:11
+Mail subject = FW: Mediacom Anne French; Mail received at = 02/15/2019 12:38:48
+Mail subject = GroupM brand name check ; Mail received at = 02/22/2019 17:08:26
+Mail subject = for brand name check; Mail received at = 02/22/2019 17:19:52
+Mail subject = for brand name check; Mail received at = 02/22/2019 17:19:52
+Mail subject = FW: FCB - Exxon - Times Now - West; Mail received at = 02/25/2019 12:27:59
+Mail subject = FW: FCB - Exxon - Times Now - West; Mail received at = 02/25/2019 12:27:59
+Mail subject = FW: FCB - Exxon - Times Now - West; Mail received at = 02/25/2019 12:27:59
+Mail subject = FW: FCB - Exxon - Times Now - West; Mail received at = 02/25/2019 12:27:59
+Mail subject = FW: ICICI BANK LTD - ICICI BANK - GROUPM ; Mail received at = 02/25/2019 12:30:30
+Mail subject = FW: ICICI BANK LTD - ET NOW - GROUPM; Mail received at = 02/25/2019 12:31:03
+RO Processed at 02/27/2019 11:59:11 ; Mail subject = FW: ICICI BANK LTD - ICICI BANK - GROUPM ; Mail received at = 02/25/2019 12:30:30
+RO Processed at 02/27/2019 11:59:43 ; Mail subject = FW: ICICI BANK LTD - ET NOW - GROUPM; Mail received at = 02/25/2019 12:31:03
+RO Processed at 02/27/2019 12:03:33 ; Mail subject = FW: ICICI BANK LTD - ICICI BANK - TIMES NOW - GROUPM - AUG; Mail received at = 02/25/2019 12:31:21
